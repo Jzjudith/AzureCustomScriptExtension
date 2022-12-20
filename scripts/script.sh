@@ -11,7 +11,8 @@ sudo -i
 sudo cat > /var/www/html/index.html <<'EOF'  
 <h1> Hello User</h1>
   <p>
-    Welcome to %HOSTNAME
+    Welcome to Devlab
     
   </p>
+  
 EOF

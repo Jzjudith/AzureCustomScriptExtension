@@ -1,5 +1,3 @@
-Set-ExecutionPolicy -ExecutionPolicy AllSigned -Scope Process
-# Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 Install-WindowsFeature -name Web-Server -IncludeManagementTools
 
